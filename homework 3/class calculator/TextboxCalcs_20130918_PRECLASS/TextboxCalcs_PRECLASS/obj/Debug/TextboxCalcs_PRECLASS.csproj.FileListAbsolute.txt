@@ -1,0 +1,18 @@
+c:\users\hp user\documents\visual studio 2012\Projects\TextboxCalcs_PRECLASS\bin\Debug\TextboxCalcs_PRECLASS.exe.config
+c:\users\hp user\documents\visual studio 2012\Projects\TextboxCalcs_PRECLASS\bin\Debug\TextboxCalcs_PRECLASS.exe
+c:\users\hp user\documents\visual studio 2012\Projects\TextboxCalcs_PRECLASS\bin\Debug\TextboxCalcs_PRECLASS.pdb
+c:\users\hp user\documents\visual studio 2012\Projects\TextboxCalcs_PRECLASS\obj\Debug\TextboxCalcs_PRECLASS.csprojResolveAssemblyReference.cache
+c:\users\hp user\documents\visual studio 2012\Projects\TextboxCalcs_PRECLASS\obj\Debug\TextboxCalcs_PRECLASS.Form1.resources
+c:\users\hp user\documents\visual studio 2012\Projects\TextboxCalcs_PRECLASS\obj\Debug\TextboxCalcs_PRECLASS.Properties.Resources.resources
+c:\users\hp user\documents\visual studio 2012\Projects\TextboxCalcs_PRECLASS\obj\Debug\TextboxCalcs_PRECLASS.csproj.GenerateResource.Cache
+c:\users\hp user\documents\visual studio 2012\Projects\TextboxCalcs_PRECLASS\obj\Debug\TextboxCalcs_PRECLASS.exe
+c:\users\hp user\documents\visual studio 2012\Projects\TextboxCalcs_PRECLASS\obj\Debug\TextboxCalcs_PRECLASS.pdb
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 3\class calculator\TextboxCalcs_20130918_PRECLASS\TextboxCalcs_PRECLASS\bin\Debug\TextboxCalcs_PRECLASS.exe.config
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 3\class calculator\TextboxCalcs_20130918_PRECLASS\TextboxCalcs_PRECLASS\obj\Debug\TextboxCalcs_PRECLASS.exe
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 3\class calculator\TextboxCalcs_20130918_PRECLASS\TextboxCalcs_PRECLASS\obj\Debug\TextboxCalcs_PRECLASS.pdb
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 3\class calculator\TextboxCalcs_20130918_PRECLASS\TextboxCalcs_PRECLASS\bin\Debug\TextboxCalcs_PRECLASS.exe
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 3\class calculator\TextboxCalcs_20130918_PRECLASS\TextboxCalcs_PRECLASS\bin\Debug\TextboxCalcs_PRECLASS.pdb
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 3\class calculator\TextboxCalcs_20130918_PRECLASS\TextboxCalcs_PRECLASS\obj\Debug\TextboxCalcs_PRECLASS.csprojResolveAssemblyReference.cache
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 3\class calculator\TextboxCalcs_20130918_PRECLASS\TextboxCalcs_PRECLASS\obj\Debug\TextboxCalcs_PRECLASS.Form1.resources
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 3\class calculator\TextboxCalcs_20130918_PRECLASS\TextboxCalcs_PRECLASS\obj\Debug\TextboxCalcs_PRECLASS.Properties.Resources.resources
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 3\class calculator\TextboxCalcs_20130918_PRECLASS\TextboxCalcs_PRECLASS\obj\Debug\TextboxCalcs_PRECLASS.csproj.GenerateResource.Cache

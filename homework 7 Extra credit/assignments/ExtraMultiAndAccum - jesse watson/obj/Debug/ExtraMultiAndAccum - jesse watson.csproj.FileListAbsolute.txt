@@ -1,0 +1,9 @@
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 7 Extra credit\assignments\ExtraMultiAndAccum - jesse watson\bin\Debug\ExtraMultiAndAccum - jesse watson.exe.config
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 7 Extra credit\assignments\ExtraMultiAndAccum - jesse watson\bin\Debug\ExtraMultiAndAccum - jesse watson.exe
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 7 Extra credit\assignments\ExtraMultiAndAccum - jesse watson\bin\Debug\ExtraMultiAndAccum - jesse watson.pdb
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 7 Extra credit\assignments\ExtraMultiAndAccum - jesse watson\obj\Debug\ExtraMultiAndAccum - jesse watson.csprojResolveAssemblyReference.cache
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 7 Extra credit\assignments\ExtraMultiAndAccum - jesse watson\obj\Debug\ExtraMultiAndAccum___jesse_watson.Form1.resources
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 7 Extra credit\assignments\ExtraMultiAndAccum - jesse watson\obj\Debug\ExtraMultiAndAccum___jesse_watson.Properties.Resources.resources
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 7 Extra credit\assignments\ExtraMultiAndAccum - jesse watson\obj\Debug\ExtraMultiAndAccum - jesse watson.csproj.GenerateResource.Cache
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 7 Extra credit\assignments\ExtraMultiAndAccum - jesse watson\obj\Debug\ExtraMultiAndAccum - jesse watson.exe
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 7 Extra credit\assignments\ExtraMultiAndAccum - jesse watson\obj\Debug\ExtraMultiAndAccum - jesse watson.pdb

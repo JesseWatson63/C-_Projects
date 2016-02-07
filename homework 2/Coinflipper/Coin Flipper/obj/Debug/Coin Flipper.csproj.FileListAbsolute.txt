@@ -1,0 +1,18 @@
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 2\CardIdentifier\Coin Flipper\bin\Debug\Coin Flipper.exe.config
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 2\CardIdentifier\Coin Flipper\obj\Debug\Coin Flipper.csprojResolveAssemblyReference.cache
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 2\CardIdentifier\Coin Flipper\obj\Debug\Coin_Flipper.Form1.resources
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 2\CardIdentifier\Coin Flipper\obj\Debug\Coin_Flipper.Properties.Resources.resources
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 2\CardIdentifier\Coin Flipper\obj\Debug\Coin Flipper.csproj.GenerateResource.Cache
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 2\CardIdentifier\Coin Flipper\bin\Debug\Coin Flipper.exe
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 2\CardIdentifier\Coin Flipper\bin\Debug\Coin Flipper.pdb
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 2\CardIdentifier\Coin Flipper\obj\Debug\Coin Flipper.exe
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 2\CardIdentifier\Coin Flipper\obj\Debug\Coin Flipper.pdb
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 2\Coinflipper\Coin Flipper\bin\Debug\Coin Flipper.exe.config
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 2\Coinflipper\Coin Flipper\obj\Debug\Coin Flipper.exe
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 2\Coinflipper\Coin Flipper\obj\Debug\Coin Flipper.pdb
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 2\Coinflipper\Coin Flipper\bin\Debug\Coin Flipper.exe
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 2\Coinflipper\Coin Flipper\bin\Debug\Coin Flipper.pdb
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 2\Coinflipper\Coin Flipper\obj\Debug\Coin Flipper.csprojResolveAssemblyReference.cache
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 2\Coinflipper\Coin Flipper\obj\Debug\Coin_Flipper.Form1.resources
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 2\Coinflipper\Coin Flipper\obj\Debug\Coin_Flipper.Properties.Resources.resources
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 2\Coinflipper\Coin Flipper\obj\Debug\Coin Flipper.csproj.GenerateResource.Cache

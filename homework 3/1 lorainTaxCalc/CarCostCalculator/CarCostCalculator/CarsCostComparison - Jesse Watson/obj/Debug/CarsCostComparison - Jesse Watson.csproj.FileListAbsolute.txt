@@ -1,0 +1,15 @@
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 3\lorainTaxCalc\CarCostCalculator\CarsCostComparison - Jesse Watson\bin\Debug\CarsCostComparison - Jesse Watson.exe.config
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 3\lorainTaxCalc\CarCostCalculator\CarsCostComparison - Jesse Watson\obj\Debug\CarsCostComparison - Jesse Watson.csprojResolveAssemblyReference.cache
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 3\lorainTaxCalc\CarCostCalculator\CarsCostComparison - Jesse Watson\obj\Debug\CarsCostComparison___Jesse_Watson.Form1.resources
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 3\lorainTaxCalc\CarCostCalculator\CarsCostComparison - Jesse Watson\obj\Debug\CarsCostComparison___Jesse_Watson.Properties.Resources.resources
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 3\lorainTaxCalc\CarCostCalculator\CarsCostComparison - Jesse Watson\obj\Debug\CarsCostComparison - Jesse Watson.csproj.GenerateResource.Cache
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 3\lorainTaxCalc\CarCostCalculator\CarsCostComparison - Jesse Watson\bin\Debug\CarsCostComparison - Jesse Watson.exe
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 3\lorainTaxCalc\CarCostCalculator\CarsCostComparison - Jesse Watson\bin\Debug\CarsCostComparison - Jesse Watson.pdb
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 3\lorainTaxCalc\CarCostCalculator\CarsCostComparison - Jesse Watson\obj\Debug\CarsCostComparison - Jesse Watson.exe
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 3\lorainTaxCalc\CarCostCalculator\CarsCostComparison - Jesse Watson\obj\Debug\CarsCostComparison - Jesse Watson.pdb
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 3\1 lorainTaxCalc\CarCostCalculator\CarCostCalculator\CarsCostComparison - Jesse Watson\bin\Debug\CarsCostComparison - Jesse Watson.exe.config
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 3\1 lorainTaxCalc\CarCostCalculator\CarCostCalculator\CarsCostComparison - Jesse Watson\obj\Debug\CarsCostComparison - Jesse Watson.exe
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 3\1 lorainTaxCalc\CarCostCalculator\CarCostCalculator\CarsCostComparison - Jesse Watson\obj\Debug\CarsCostComparison - Jesse Watson.pdb
+E:\college course\4th semster\Intro to C#\homework 3\1 lorainTaxCalc\CarCostCalculator\CarCostCalculator\CarsCostComparison - Jesse Watson\bin\Debug\CarsCostComparison - Jesse Watson.exe.config
+E:\college course\4th semster\Intro to C#\homework 3\1 lorainTaxCalc\CarCostCalculator\CarCostCalculator\CarsCostComparison - Jesse Watson\obj\Debug\CarsCostComparison - Jesse Watson.exe
+E:\college course\4th semster\Intro to C#\homework 3\1 lorainTaxCalc\CarCostCalculator\CarCostCalculator\CarsCostComparison - Jesse Watson\obj\Debug\CarsCostComparison - Jesse Watson.pdb

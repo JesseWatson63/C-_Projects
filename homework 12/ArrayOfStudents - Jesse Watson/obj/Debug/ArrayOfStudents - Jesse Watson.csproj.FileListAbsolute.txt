@@ -1,0 +1,9 @@
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 12\ArrayOfStudents - Jesse Watson\bin\Debug\ArrayOfStudents - Jesse Watson.exe.config
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 12\ArrayOfStudents - Jesse Watson\bin\Debug\ArrayOfStudents - Jesse Watson.exe
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 12\ArrayOfStudents - Jesse Watson\bin\Debug\ArrayOfStudents - Jesse Watson.pdb
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 12\ArrayOfStudents - Jesse Watson\obj\Debug\ArrayOfStudents - Jesse Watson.csprojResolveAssemblyReference.cache
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 12\ArrayOfStudents - Jesse Watson\obj\Debug\ArrayOfStudents___Jesse_Watson.Form1.resources
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 12\ArrayOfStudents - Jesse Watson\obj\Debug\ArrayOfStudents___Jesse_Watson.Properties.Resources.resources
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 12\ArrayOfStudents - Jesse Watson\obj\Debug\ArrayOfStudents - Jesse Watson.csproj.GenerateResource.Cache
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 12\ArrayOfStudents - Jesse Watson\obj\Debug\ArrayOfStudents - Jesse Watson.exe
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 12\ArrayOfStudents - Jesse Watson\obj\Debug\ArrayOfStudents - Jesse Watson.pdb

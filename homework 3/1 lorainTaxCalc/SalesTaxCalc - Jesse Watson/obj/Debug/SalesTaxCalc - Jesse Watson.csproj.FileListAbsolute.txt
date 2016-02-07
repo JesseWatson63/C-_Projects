@@ -1,0 +1,9 @@
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 3\lorainTaxCalc\SalesTaxCalc - Jesse Watson\bin\Debug\SalesTaxCalc - Jesse Watson.exe.config
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 3\lorainTaxCalc\SalesTaxCalc - Jesse Watson\obj\Debug\SalesTaxCalc - Jesse Watson.csprojResolveAssemblyReference.cache
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 3\lorainTaxCalc\SalesTaxCalc - Jesse Watson\obj\Debug\SalesTaxCalc___Jesse_Watson.calculator.resources
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 3\lorainTaxCalc\SalesTaxCalc - Jesse Watson\obj\Debug\SalesTaxCalc___Jesse_Watson.Properties.Resources.resources
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 3\lorainTaxCalc\SalesTaxCalc - Jesse Watson\obj\Debug\SalesTaxCalc - Jesse Watson.csproj.GenerateResource.Cache
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 3\lorainTaxCalc\SalesTaxCalc - Jesse Watson\bin\Debug\SalesTaxCalc - Jesse Watson.exe
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 3\lorainTaxCalc\SalesTaxCalc - Jesse Watson\bin\Debug\SalesTaxCalc - Jesse Watson.pdb
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 3\lorainTaxCalc\SalesTaxCalc - Jesse Watson\obj\Debug\SalesTaxCalc - Jesse Watson.exe
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 3\lorainTaxCalc\SalesTaxCalc - Jesse Watson\obj\Debug\SalesTaxCalc - Jesse Watson.pdb

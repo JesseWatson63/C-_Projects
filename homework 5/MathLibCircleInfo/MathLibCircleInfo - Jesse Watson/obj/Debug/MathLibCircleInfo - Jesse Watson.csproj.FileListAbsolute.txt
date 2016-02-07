@@ -1,0 +1,9 @@
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 5\MathLibCircleInfo\MathLibCircleInfo - Jesse Watson\bin\Debug\MathLibCircleInfo - Jesse Watson.exe.config
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 5\MathLibCircleInfo\MathLibCircleInfo - Jesse Watson\bin\Debug\MathLibCircleInfo - Jesse Watson.exe
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 5\MathLibCircleInfo\MathLibCircleInfo - Jesse Watson\bin\Debug\MathLibCircleInfo - Jesse Watson.pdb
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 5\MathLibCircleInfo\MathLibCircleInfo - Jesse Watson\obj\Debug\MathLibCircleInfo - Jesse Watson.csprojResolveAssemblyReference.cache
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 5\MathLibCircleInfo\MathLibCircleInfo - Jesse Watson\obj\Debug\MathLibCircleInfo___Jesse_Watson.Form1.resources
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 5\MathLibCircleInfo\MathLibCircleInfo - Jesse Watson\obj\Debug\MathLibCircleInfo___Jesse_Watson.Properties.Resources.resources
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 5\MathLibCircleInfo\MathLibCircleInfo - Jesse Watson\obj\Debug\MathLibCircleInfo - Jesse Watson.csproj.GenerateResource.Cache
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 5\MathLibCircleInfo\MathLibCircleInfo - Jesse Watson\obj\Debug\MathLibCircleInfo - Jesse Watson.exe
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 5\MathLibCircleInfo\MathLibCircleInfo - Jesse Watson\obj\Debug\MathLibCircleInfo - Jesse Watson.pdb

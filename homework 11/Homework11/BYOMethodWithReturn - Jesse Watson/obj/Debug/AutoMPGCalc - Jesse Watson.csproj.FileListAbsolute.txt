@@ -1,0 +1,33 @@
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 4\MPG Assignment\AutoMPGCalc - Jesse Watson\bin\Debug\AutoMPGCalc - Jesse Watson.exe.config
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 4\MPG Assignment\AutoMPGCalc - Jesse Watson\bin\Debug\AutoMPGCalc - Jesse Watson.exe
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 4\MPG Assignment\AutoMPGCalc - Jesse Watson\bin\Debug\AutoMPGCalc - Jesse Watson.pdb
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 4\MPG Assignment\AutoMPGCalc - Jesse Watson\obj\Debug\AutoMPGCalc - Jesse Watson.csprojResolveAssemblyReference.cache
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 4\MPG Assignment\AutoMPGCalc - Jesse Watson\obj\Debug\AutoMPGCalc___Jesse_Watson.Form1.resources
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 4\MPG Assignment\AutoMPGCalc - Jesse Watson\obj\Debug\AutoMPGCalc___Jesse_Watson.Properties.Resources.resources
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 4\MPG Assignment\AutoMPGCalc - Jesse Watson\obj\Debug\AutoMPGCalc - Jesse Watson.csproj.GenerateResource.Cache
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 4\MPG Assignment\AutoMPGCalc - Jesse Watson\obj\Debug\AutoMPGCalc - Jesse Watson.exe
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 4\MPG Assignment\AutoMPGCalc - Jesse Watson\obj\Debug\AutoMPGCalc - Jesse Watson.pdb
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 11\Homework11\AutoMPGCalc - Jesse Watson\bin\Debug\AutoMPGCalc - Jesse Watson.exe.config
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 11\Homework11\AutoMPGCalc - Jesse Watson\obj\Debug\AutoMPGCalc - Jesse Watson.exe
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 11\Homework11\AutoMPGCalc - Jesse Watson\obj\Debug\AutoMPGCalc - Jesse Watson.pdb
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 11\Homework11\AutoMPGCalc - Jesse Watson\bin\Debug\AutoMPGCalc - Jesse Watson.exe
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 11\Homework11\AutoMPGCalc - Jesse Watson\bin\Debug\AutoMPGCalc - Jesse Watson.pdb
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 11\Homework11\AutoMPGCalc - Jesse Watson\obj\Debug\AutoMPGCalc - Jesse Watson.csprojResolveAssemblyReference.cache
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 11\Homework11\AutoMPGCalc - Jesse Watson\obj\Debug\AutoMPGCalc___Jesse_Watson.Form1.resources
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 11\Homework11\AutoMPGCalc - Jesse Watson\obj\Debug\AutoMPGCalc___Jesse_Watson.Properties.Resources.resources
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 11\Homework11\AutoMPGCalc - Jesse Watson\obj\Debug\AutoMPGCalc - Jesse Watson.csproj.GenerateResource.Cache
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 11\Homework11\BYOMethodWithReturn - Jesse Watson\bin\Debug\AutoMPGCalc - Jesse Watson.exe.config
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 11\Homework11\BYOMethodWithReturn - Jesse Watson\obj\Debug\AutoMPGCalc - Jesse Watson.exe
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 11\Homework11\BYOMethodWithReturn - Jesse Watson\obj\Debug\AutoMPGCalc - Jesse Watson.pdb
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 11\Homework11\BYOMethodWithReturn - Jesse Watson\obj\Debug\AutoMPGCalc - Jesse Watson.csprojResolveAssemblyReference.cache
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 11\Homework11\BYOMethodWithReturn - Jesse Watson\obj\Debug\AutoMPGCalc___Jesse_Watson.Form1.resources
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 11\Homework11\BYOMethodWithReturn - Jesse Watson\obj\Debug\AutoMPGCalc___Jesse_Watson.Properties.Resources.resources
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 11\Homework11\BYOMethodWithReturn - Jesse Watson\obj\Debug\AutoMPGCalc - Jesse Watson.csproj.GenerateResource.Cache
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 11\Homework11\BYOMethodWithReturn - Jesse Watson\bin\Debug\AutoMPGCalc - Jesse Watson.exe
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 11\Homework11\BYOMethodWithReturn - Jesse Watson\bin\Debug\AutoMPGCalc - Jesse Watson.pdb
+G:\college course\4th semster\Intro to C#\homework 11\Homework11\BYOMethodWithReturn - Jesse Watson\bin\Debug\AutoMPGCalc - Jesse Watson.exe.config
+G:\college course\4th semster\Intro to C#\homework 11\Homework11\BYOMethodWithReturn - Jesse Watson\obj\Debug\AutoMPGCalc - Jesse Watson.exe
+G:\college course\4th semster\Intro to C#\homework 11\Homework11\BYOMethodWithReturn - Jesse Watson\obj\Debug\AutoMPGCalc - Jesse Watson.pdb
+E:\Users\jesse\Desktop\college course\4th semster\Intro to C#\homework 11\Homework11\BYOMethodWithReturn - Jesse Watson\bin\Debug\AutoMPGCalc - Jesse Watson.exe.config
+E:\Users\jesse\Desktop\college course\4th semster\Intro to C#\homework 11\Homework11\BYOMethodWithReturn - Jesse Watson\obj\Debug\AutoMPGCalc - Jesse Watson.exe
+E:\Users\jesse\Desktop\college course\4th semster\Intro to C#\homework 11\Homework11\BYOMethodWithReturn - Jesse Watson\obj\Debug\AutoMPGCalc - Jesse Watson.pdb

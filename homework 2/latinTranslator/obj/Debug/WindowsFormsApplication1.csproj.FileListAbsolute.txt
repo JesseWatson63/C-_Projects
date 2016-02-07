@@ -1,0 +1,9 @@
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 2\CardIdentifier\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 2\CardIdentifier\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 2\CardIdentifier\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 2\CardIdentifier\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 2\CardIdentifier\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 2\CardIdentifier\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 2\CardIdentifier\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 2\CardIdentifier\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 2\CardIdentifier\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

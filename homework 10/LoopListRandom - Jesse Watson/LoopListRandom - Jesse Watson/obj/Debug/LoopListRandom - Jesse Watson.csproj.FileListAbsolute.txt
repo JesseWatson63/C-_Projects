@@ -1,0 +1,9 @@
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 10\LoopListRandom - Jesse Watson\LoopListRandom - Jesse Watson\bin\Debug\LoopListRandom - Jesse Watson.exe.config
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 10\LoopListRandom - Jesse Watson\LoopListRandom - Jesse Watson\bin\Debug\LoopListRandom - Jesse Watson.exe
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 10\LoopListRandom - Jesse Watson\LoopListRandom - Jesse Watson\bin\Debug\LoopListRandom - Jesse Watson.pdb
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 10\LoopListRandom - Jesse Watson\LoopListRandom - Jesse Watson\obj\Debug\LoopListRandom - Jesse Watson.csprojResolveAssemblyReference.cache
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 10\LoopListRandom - Jesse Watson\LoopListRandom - Jesse Watson\obj\Debug\LoopListRandom___Jesse_Watson.Form1.resources
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 10\LoopListRandom - Jesse Watson\LoopListRandom - Jesse Watson\obj\Debug\LoopListRandom___Jesse_Watson.Properties.Resources.resources
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 10\LoopListRandom - Jesse Watson\LoopListRandom - Jesse Watson\obj\Debug\LoopListRandom - Jesse Watson.csproj.GenerateResource.Cache
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 10\LoopListRandom - Jesse Watson\LoopListRandom - Jesse Watson\obj\Debug\LoopListRandom - Jesse Watson.exe
+C:\Users\Jesse\Desktop\college course\4th semster\Intro to C#\homework 10\LoopListRandom - Jesse Watson\LoopListRandom - Jesse Watson\obj\Debug\LoopListRandom - Jesse Watson.pdb

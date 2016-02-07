@@ -1,0 +1,63 @@
+//LOTTERY PLAN/PSEUDO CODE
+//THIS IS NOT C# CODE BUT PROVIDES A GUIDELINE SO YOU CAN CODE IN C#
+
+//INPUT
+accept 3 textboxes of winning number digits
+
+//setup your own Random number generator object
+Random myRandomNumberObject = new Random();
+
+//PROCESSING
+//set looping counter
+number of attempts = 0;
+
+
+WHILE/LOOP (true)
+{
+  //Track number of attempts
+  number of attempts++;
+
+  if ( number of attempts <= 1000  &&  Match? == false )
+     { 'continue looping'}
+  else
+     { break; (out of the loop)}
+
+  Generate a Random Number for each of 3 digits
+  //get next random digit generated from 0 to 9, for your generated digit position 1
+  myGenerated1stDigit = myRandomNumberObject.Next(10);
+  myGenerated2ndDigit = myRandomNumberObject.Next(10);
+  myGenerated3rdDigit = myRandomNumberObject.Next(10);
+
+  //Compare Random digits to winning digits
+
+  if (random # = winning #)
+    { Match? = true;  }
+  else
+    { Match? = false; }
+
+  Display Each Attempt in ListBox
+
+}
+
+WHILE/LOOP (end of loop)
+
+
+//(now you are outside of the loop/after the loop is finished)
+
+//OUTPUT
+if (Match? == true)
+  {
+   Message = "You Won - it took _____  attempts"
+   backcolor = green
+  }
+else
+  {
+   Message = "No Match - after trying _______  attempts"
+   backcolor = red
+  }
+
+Display Message, put data in Labels etc.
+
+//alternate to using while loop is a For loop, something like:
+//FOR ( i=1 ; i <=1000 && Match? == false ; i++) - POSSIBLE ALTERNATE OF USING A WHILE, BUT YOU WILL HAVE TO REVISE
+
